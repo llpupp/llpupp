@@ -12,3 +12,4 @@
 ![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![image](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://camo.githubusercontent.com/893d0d62c507a3ac93ef095b646bad9ff0560856bf12f11d05de7ad108e19955/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d437970726573732d3035313232413f7374796c653d666c6174266c6f676f3d43797072657373)
